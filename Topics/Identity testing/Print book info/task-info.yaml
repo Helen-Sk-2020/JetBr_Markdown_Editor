@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def print_book_info(title, author=None, year=None):
+        #  Write your code here
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8085#comment
+status: Unchecked
+feedback:
+  message: "Failed to connect to server, check the Internet connection \n\nNetwork\
+    \ is unreachable: connect"
+  time: Mon, 20 Dec 2021 05:44:18 UTC
+record: -1
